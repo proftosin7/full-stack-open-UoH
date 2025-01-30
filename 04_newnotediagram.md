@@ -34,5 +34,4 @@ sequenceDiagram
     server-->>browser: Updated JSON that contains the new note
     deactivate server
 
-    Note right of browser: The browser evokes the callback function to render the updated list of notes
-    ```
+    Note right of browser: The browser evokes the callback function to render the updated list of notes ```
